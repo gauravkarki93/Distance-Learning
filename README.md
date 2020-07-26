@@ -1,7 +1,7 @@
 # Distance Learning
 Created a website which would help students to access class material and check grades online.
 
-##Overview 
+## Overview 
 
 1. The project is built using Java Enterprise Edition. Java is an object oriented
 programming language (OOPs). On the web, Java can be used on the client side to create
@@ -13,3 +13,8 @@ approach is the desire to separate the code that creates and manipulates the dat
 code that represents the data.
 
 3. RDMS used to store the data.
+
+## Screenshots
+
+![Home Screen](/image21.png)
+![Registration Screen](/image20.png)
