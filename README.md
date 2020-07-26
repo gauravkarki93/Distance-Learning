@@ -16,5 +16,8 @@ code that represents the data.
 
 ## Screenshots
 
+### Home Screen 
 ![Home Screen](/image21.png)
+
+### Registration Screen
 ![Registration Screen](/image20.png)
